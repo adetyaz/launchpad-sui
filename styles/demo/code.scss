@@ -1,0 +1,333 @@
+
+
+ body{
+    font-family: sans-serif;
+ }
+pre.app-code {
+    background-color: var(--surface-ground);
+    margin: 0 0 1rem 0;
+    padding: 0;
+    border-radius: var(--border-radius);
+    overflow: auto;
+
+    code {
+        color: var(--surface-900);
+        padding: 1rem;
+        line-height: 1.5;
+        display: block;
+        font-family: monaco, Consolas, monospace;
+    }
+}
+
+.connect-wallet{
+    background-color: white!important;
+    color: black!important;
+    border-radius: 20px!important;
+}
+.button-launch:hover{
+    background-color: #8a58a6;
+}
+
+.buy-back-image-market-form {
+    height: 1600px;
+    background: #8FBAFE;
+}
+.buy-back-image-webapp-form{
+    height: 1950px;
+    background: #8FBAFE;
+}
+
+.buy-back-image-instagen{
+    height: 1400px;
+    background: #8FBAFE;
+
+}
+.buy-back-image {
+    height: 1300px;
+    background: #8FBAFE;
+}
+
+.buy-back-image-subs-dashboard {
+    height: 1200px;
+    background: #8FBAFE;
+    margin-top: -14px;
+}
+
+.buy-back-image-storefront-dashboard {
+    height: 1200px;
+    background: #8FBAFE;
+    margin-top: -25px;
+}
+
+.buy-back-image-webapp-manage {
+    height: 1100px;
+    background: #8FBAFE;
+}
+
+.back-image-fus-nft {
+    height: 1200px;
+    background: radial-gradient(#00FFBD, #44FFD200), #5347E7
+}
+
+.back-image-sig-nft {
+    background: #8FBAFE;
+    height: 1450px;
+
+}
+
+.back-img-eternumpass {
+    background: #8FBAFE;
+    height: 1000px;
+}
+
+.back-img-insta {
+    background: #8FBAFE;
+    height: 1000px;
+}
+
+.back-img-sig {
+    height: 500px;
+    background: #8FBAFE;
+
+
+}
+
+.subscription-wrapper {
+    position: absolute;
+    top: 20%;
+    left: 42%;
+}
+
+.add-properties {
+    width: 65%;
+    margin: 0 auto;
+}
+
+.assets-input-back {
+    background: rgba(83, 71, 231, 0.50);
+    border-radius: 5px;
+    border: none;
+}
+.buy-img:hover{
+    box-shadow:0px 50px 60px 0px rgba(83, 71, 231, 0.50)
+
+}
+.deploy-tradhub-conttract{
+background: radial-gradient(66.89% 131.1% at 87.55% 41.38%, rgba(0, 255, 189, 0.50) 0%, rgba(68, 255, 210, 0.00) 100%), #5347E7;
+box-shadow: 3px 3px 2px 0px rgba(83, 71, 231, 0.40);
+}
+.back-color-webapp-setting{
+    background-color: #282A32;
+}
+.back-color-update{
+    background: rgba(255, 255, 255, 0.30);
+    border-radius: 10px;
+}
+.buy-back-image-footer{
+    height: 345px;
+    background: #8FBAFE;
+}
+.blockchain-label{
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 10px 25px 10px 25px;
+}
+.launchpad-back {
+    background-image: url("/Rectangle.png");
+    height: 1022px;
+    background-size: cover;
+}
+
+.signature-series-head {
+    font-size: 40px;
+    font-weight: bold;
+}
+.backstore{
+    background-image: url("/backstore.png");
+    height: 300px;
+    background-size: cover;
+}
+.backstore1{
+    background-image: url("/backstore.png");
+    height: 167px;
+    background-size: cover;
+}
+
+
+.success-msg {
+    background: linear-gradient(117.26deg, rgba(83, 71, 231, 0.9) 6.49%, rgba(1, 98, 255, 0.9) 98.23%);
+    border-radius: 15px;
+    width: 200px;
+    height: 300px;
+    color: white;
+}
+.effective-nft-color{
+    background: linear-gradient(90deg, #0162FF 0%, #E6007A 50.38%, #5347E7 101.92%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.buy-back-image-launch{
+    height: 700px;
+    background: #8FBAFE;
+}
+.dashboardl-top-back {
+    background: linear-gradient(180deg, rgba(1, 98, 255, 0.9) 0%, rgba(83, 71, 231, 0.9) 100%);
+    ;
+    padding: 80px 10px 80px 10px;
+    margin-top: 70px;
+    margin-left: 0px;
+    margin-right: -50px;
+}
+.back-contract{
+    background: #CFCDCD;
+    border-radius: 20px;
+    
+}
+
+.storefront-back-part {
+    background-color: #5347E7;
+    height: 145px;
+    margin: 0 auto;
+   
+
+}
+.disabledbutton{
+    pointer-events: none;
+    opacity: 0.4;
+}
+
+.subscription-back-part-get-all {
+    background-color: #5347E7;
+
+}
+
+.select-file-image {
+    border-style: dashed;
+}
+
+.no-subscribe {
+    text-align: center;
+    position: relative;
+}
+
+.active {
+    background-color: blue;
+    color: white;
+    padding: 8px 15px 8px 8px;
+    margin-top: 10px;
+    border-radius: 20px;
+    width: 120px;
+    cursor: pointer;
+}
+
+.active-sig:active {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+    width: 120px;
+    cursor: pointer;
+}
+
+.right-collection-box {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.manage-colloection-back {
+    background: linear-gradient(180deg, rgba(1, 98, 255, 0.9) 0%, rgba(83, 71, 231, 0.9) 100%);
+    padding: 70px 0px 55px 0px;
+    margin: 70px 0px 10px -57px;
+    text-align: center;
+    font-size: 27px;
+    color: white;
+}
+
+.card-role {
+    background: rgba(83, 71, 231, 0.4);
+}
+
+.dash-img-size {
+    width: 300px;
+    height: 300px;
+}
+
+.gap-right {
+    gap: 100px;
+}
+
+.overflow-manage-left {
+    height: 535px;
+}
+.buy-back-image-overview{
+    height: 900px;
+    background: #8FBAFE;
+}
+.buy-back-image-update-tradhub{
+    height: 900px;
+    background: #8FBAFE;
+}
+.buy-back-image-access{
+    height: 870px;
+    background: #8FBAFE;
+}
+.overflow-dashboard-left {
+    height: 864px;
+}
+
+.overflow {
+    overflow: scroll;
+}
+.cover-img-back{
+    background: #D9D9D9;
+    height: 200px;
+}
+.body-back-back-profile{
+    height: 450px;
+    background: #8FBAFE;
+}
+.buy-back-image-sig{
+    height: 700px;
+    background: #8FBAFE;
+}
+.buy-back-image-subsc{
+    height: 845px;
+    background: #8FBAFE;
+}
+.buy-back-image-eternal{
+    height: 700px;
+    background: #8FBAFE;
+}
+.border-bottom-das {
+    border-bottom: 1px solid;
+    padding: 10px;
+}
+.border-top-das {
+    border-bottom: 1px solid;
+    padding: 10px;
+}
+
+.input-market-search {
+    width: 500px;
+    border-radius: 25px;
+}
+
+.sucessnote-back {
+    background: linear-gradient(181.75deg, rgba(83, 71, 231, 0.8) 9.97%, rgba(83, 71, 231, 0) 97.19%), #FFFFFF;
+}
+
+.edition-note {
+    font-size: 15px;
+}
+
+.skip-button {
+    border: 2px solid #5347E7;
+    border-radius: 25px;
+    padding: 10px 35px 10px 35px;
+}
+
+.update-marketplace {
+    padding: 10px 50px 10px 50px;
+}
